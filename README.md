@@ -70,6 +70,7 @@ Git/GitHub, OOP, UML Design, System Architecture, Networking (ARP, TCP/IP)
 
 ---
 
+
 ## Contact
 - Email: kevchege115@gmail.com  
 - LinkedIn: linkedin.com/in/kevin-chege  
@@ -79,3 +80,29 @@ Git/GitHub, OOP, UML Design, System Architecture, Networking (ARP, TCP/IP)
 ---
 
 _"Build systems that solve real problems."_
+
+
+### 💻 Tech Stack:
+
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=flat&logo=nvidia&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white)
+
+<br/>
+
+### 📊 GitHub Stats:
+
+![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevchege&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=e50914&icon_color=00d4ff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevchege&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=e50914)
