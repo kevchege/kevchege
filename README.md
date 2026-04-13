@@ -102,7 +102,3 @@ _"Build systems that solve real problems."_
 <br/>
 
 ### 📊 GitHub Stats:
-
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevchege&show_icons=true&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=e50914&icon_color=00d4ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevchege&layout=compact&theme=dark&hide_border=true&bg_color=0a0a0f&title_color=e50914)
